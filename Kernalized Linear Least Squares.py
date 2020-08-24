@@ -5,6 +5,7 @@ Created on Mon Aug 24 10:14:07 2020
 @author: Grant
 """
 
+import math
 import numpy
 
 X = [[1, 3, 5, 6], [2, 6, 8, 1], [3, 1, 6, 1]]
